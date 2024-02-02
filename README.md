@@ -48,4 +48,4 @@ The winning team from UMass-Lowell featured students from both civil engineering
 
 ---
 
-Congratulations to Team River Hawk for their outstanding performance at the 2021 Transportation Technology Tournament! This project not only addresses a real-world transportation problem but also contributes to the development of smart transportation systems and cities.
+Congratulations to Team River Hawk for their outstanding performance at the 2021 Transportation Technology Tournament! 
