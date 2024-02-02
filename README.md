@@ -17,11 +17,11 @@ The solution focuses on maximizing the use of existing ITS infrastructure by emp
 - Reduction in data communication costs through processed data streaming.
 
 ### Concept of Operations
-[Concept of Operations (PDF)](https://transops.s3.amazonaws.com/uploaded_files/2023-10/UMass%20Lowell%20Presentation%20-%202021%20TTT.pdf)
+[Concept of Operations (PDF)](https://transops.s3.amazonaws.com/uploaded_files/2023-10/UMass%20Lowell%20Presentation%20-%202021%20TTT.pdf){:target="_blank"}
 
 ## Media
-- [Final Presentation Video](https://www.youtube.com/watch?v=kllPMsbjloI)
-- [TTT Awards Ceremony](https://www.youtube.com/watch?v=cSyakQG-fPg)
+- [Final Presentation Video](https://www.youtube.com/watch?v=kllPMsbjloI){:target="_blank"}
+- [TTT Awards Ceremony](https://www.youtube.com/watch?v=cSyakQG-fPg){:target="_blank"}
 
 ## Team Members
 - Zubin Bhuyan
@@ -30,17 +30,17 @@ The solution focuses on maximizing the use of existing ITS infrastructure by emp
 - Jennifer Capistano
 - Shania Ruiz
 
-[Team Members Information](https://transportationops.org/umass-lowell-2021-student-information)
+[Team Members Information](https://transportationops.org/umass-lowell-2021-student-information){:target="_blank"}
 
 ## Faculty Advisors
-- [Yuanchang Xie, PhD](https://www.uml.edu/engineering/civil-environmental/faculty/xie-yuanchang.aspx)
-- [Benyuan Liu, PhD](https://www.uml.edu/research/chords/faculty/liu-benyuan.aspx)
+- [Yuanchang Xie, PhD](https://www.uml.edu/engineering/civil-environmental/faculty/xie-yuanchang.aspx){:target="_blank"}
+- [Benyuan Liu, PhD](https://www.uml.edu/research/chords/faculty/liu-benyuan.aspx){:target="_blank"}
 
 ## Awards and Recognition
-[University of Massachusetts Lowell Wins 2021 Transportation Technology Tournament](https://transportationops.org/news/headline-news/university-massachusetts-lowell-wins-2021-transportation-technology-tournament)
+[University of Massachusetts Lowell Wins 2021 Transportation Technology Tournament](https://transportationops.org/news/headline-news/university-massachusetts-lowell-wins-2021-transportation-technology-tournament){:target="_blank"}
 
 ## Tournament Overview
-With an interdisciplinary approach, the student team from University of Massachusetts-Lowell (UMass-Lowell) secured top honors at the 2021 Transportation Technology Tournament. Their winning presentation can be found [here](https://www.youtube.com/watch?v=kllPMsbjloI).
+With an interdisciplinary approach, the student team from University of Massachusetts-Lowell (UMass-Lowell) secured top honors at the 2021 Transportation Technology Tournament. Their winning presentation can be found [here](https://www.youtube.com/watch?v=kllPMsbjloI){:target="_blank"}.
 
 The annual Transportation Technology Tournament challenges student teams to solve real-world transportation problems by leveraging existing infrastructure and maximizing the use of operations and Intelligent Transportation Systems (ITS) strategies. The tournament, a partnership of the U.S. Department of Transportation’s ITS Joint Program Office Professional Capacity Building Program (ITS JPO PCB) and the National Operations Center of Excellence (NOCoE), aims to build on transportation curriculums by teaching problem-solving, communications, and team-building skills with students from various educational backgrounds.
 
