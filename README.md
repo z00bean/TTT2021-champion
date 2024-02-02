@@ -19,7 +19,7 @@ The solution focuses on maximizing the use of existing ITS infrastructure by emp
 ### Concept of Operations
 [Concept of Operations (PDF)](https://transops.s3.amazonaws.com/uploaded_files/2023-10/UMass%20Lowell%20Presentation%20-%202021%20TTT.pdf)
 
-## Media
+## Videos
 - [Final Presentation Video](https://www.youtube.com/watch?v=kllPMsbjloI)
 
 - [TTT Awards Ceremony](https://www.youtube.com/watch?v=cSyakQG-fPg)
@@ -40,7 +40,9 @@ The solution focuses on maximizing the use of existing ITS infrastructure by emp
 - [Yuanchang Xie, PhD](https://www.uml.edu/engineering/civil-environmental/faculty/xie-yuanchang.aspx)
 - [Benyuan Liu, PhD](https://www.uml.edu/research/chords/faculty/liu-benyuan.aspx)
 
-## Awards and Recognition
+## News & Recognition
+[Student Team Turns Existing Infrastructure into Smart, Low-Cost Traffic Sensors](https://www.mhlnews.com/transportation-distribution/article/21172882/student-teams-wins-2021-transportation-technology-tournament)
+
 [University of Massachusetts Lowell Wins 2021 Transportation Technology Tournament](https://transportationops.org/news/headline-news/university-massachusetts-lowell-wins-2021-transportation-technology-tournament)
 
 ## Tournament Overview
