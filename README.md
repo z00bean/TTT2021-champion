@@ -21,7 +21,11 @@ The solution focuses on maximizing the use of existing ITS infrastructure by emp
 
 ## Media
 - [Final Presentation Video](https://www.youtube.com/watch?v=kllPMsbjloI)
+
 - [TTT Awards Ceremony](https://www.youtube.com/watch?v=cSyakQG-fPg)
+  
+[![TTT Awards Ceremony](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcSyakQG-fPg)](https://www.youtube.com/watch?v=cSyakQG-fPg)
+  
 
 ## Team Members
 - Zubin Bhuyan
