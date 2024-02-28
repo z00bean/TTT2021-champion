@@ -1,5 +1,17 @@
 # Team River Hawk - Transportation Technology Tournament 2021 Winner
 
+<table>
+  <tr>
+    <td> <img src="scr-YT-946.jpg" alt="Final presentation" ></td>
+    <td> <img src="mhlnews-TTT21.jpg"  alt="Media coverage" ></td>
+   </tr> 
+   <tr>
+      <td><i> Final Presentation Video (https://www.youtube.com/watch?v=kllPMsbjloI) </i> </td>
+      <td><i>University of Massachusetts Lowell Wins 2021 Transportation Technology Tournament.</i>  </td>
+  </tr>
+</table>
+
+
 ## Problem Statement
 Massachusetts DOT (MassDOT) has deployed numerous traffic cameras on major highways, primarily used for manual incident verification. This project aims to leverage artificial intelligence (AI) to transform these cameras into smart sensors, automatically analyzing videos to identify abnormal scenarios, extract traffic flow parameters, and generate alerts.
 
